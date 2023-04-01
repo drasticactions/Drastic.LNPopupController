@@ -11,7 +11,7 @@
 		<Copyright>Copyright (C) Drastic Actions</Copyright>
 		<IsBindingProject>true</IsBindingProject>
 		<IsPackable>true</IsPackable>
-		<PackageTags>ios tvos catalyst Hero UIView</PackageTags>
+		<PackageTags>ios catalyst LNPopupController UIViewController Tabs UIView</PackageTags>
 		<PackageProjectUrl>https://github.com/drasticactions/Drastic.Hero</PackageProjectUrl>
 		<PackageReleaseNotes>https://github.com/drasticactions/Drastic.Hero/blob/main/CHANGELOG.md</PackageReleaseNotes>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
