@@ -5,7 +5,7 @@
     <ImplicitUsings>true</ImplicitUsings>
     <IsBindingProject>true</IsBindingProject>
     <IsPackable>true</IsPackable>
-    <Description>Binding of LNPopupController for .NET iOS, tvOS, and macOS Projects</Description>
+    <Description>Binding of LNPopupController for .NET iOS and Mac Catalyst Projects</Description>
      <Company>Drastic Actions</Company>
 		<Authors>$(Company)</Authors>
 		<Copyright>Copyright (C) Drastic Actions</Copyright>
