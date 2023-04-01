@@ -12,8 +12,8 @@
 		<IsBindingProject>true</IsBindingProject>
 		<IsPackable>true</IsPackable>
 		<PackageTags>ios catalyst LNPopupController UIViewController Tabs UIView</PackageTags>
-		<PackageProjectUrl>https://github.com/drasticactions/Drastic.Hero</PackageProjectUrl>
-		<PackageReleaseNotes>https://github.com/drasticactions/Drastic.Hero/blob/main/CHANGELOG.md</PackageReleaseNotes>
+		<PackageProjectUrl>https://github.com/drasticactions/Drastic.LNPopupController</PackageProjectUrl>
+		<PackageReleaseNotes>https://github.com/drasticactions/Drastic.LNPopupController/blob/main/CHANGELOG.md</PackageReleaseNotes>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
 		<PackageIcon>favicon.png</PackageIcon>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
